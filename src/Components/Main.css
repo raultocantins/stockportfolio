@@ -1,0 +1,12 @@
+.link{
+    text-decoration: none;
+    outline: none;
+}
+*{
+    font-family: 'Cinzel', serif;
+    
+
+}
+::placeholder{
+    font-size: 18px;
+}
